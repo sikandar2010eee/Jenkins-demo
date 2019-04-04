@@ -10,4 +10,9 @@ public class GoogleTest1 {
 	{
 		System.out.println("Google test2");
 	}
+	@Test
+	public void a()
+	{
+		System.out.println("Google test3");
+	}
 }
