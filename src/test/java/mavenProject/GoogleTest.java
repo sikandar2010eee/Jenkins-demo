@@ -18,6 +18,11 @@ public class GoogleTest {
 	  String Actual=driver.getTitle();
 	  Assert.assertEquals(Actual, Expected);
   }
+  @Test
+  public void g() {
+	  
+	System.out.println("second test");
+  }
   @BeforeTest
   public void beforeTest() {
 	  
