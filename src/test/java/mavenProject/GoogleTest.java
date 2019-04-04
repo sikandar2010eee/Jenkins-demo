@@ -29,6 +29,12 @@ public class GoogleTest {
 	System.out.println("third test");
   }
   
+  @Test
+  public void i() {
+	  
+	System.out.println("third test");
+  }
+  
   @BeforeTest
   public void beforeTest() {
 	  
