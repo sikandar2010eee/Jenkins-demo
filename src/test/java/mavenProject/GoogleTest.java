@@ -23,6 +23,12 @@ public class GoogleTest {
 	  
 	System.out.println("second test");
   }
+  @Test
+  public void h() {
+	  
+	System.out.println("third test");
+  }
+  
   @BeforeTest
   public void beforeTest() {
 	  
